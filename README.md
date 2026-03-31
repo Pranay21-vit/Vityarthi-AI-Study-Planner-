@@ -1,6 +1,6 @@
 # Vityarthi-AI-Study-Planner-
 
-# AI Study Planner (CLI-Based)
+# Vityarthi AI Study Planner (CLI-Based)
 
 ## Overview
 
@@ -78,7 +78,7 @@ Priority = (Difficulty × 0.4) + (Importance × 0.4) + ((1 / Days Left) × 0.2)
 1. Clone the repository:
 
 ```
-git clone <your-repo-link>
+https://github.com/Pranay21-vit/Vityarthi-AI-Study-Planner-.git
 ```
 
 2. Navigate to the project folder:
